@@ -1,3 +1,4 @@
+##INTRODUCTION
 A **web crawler** is defined as an Internet bot that searches the World Wide Web, typically operated by search engines or large language models.
 
 The web crawler starts with a list of predetermined URLs, called **seeds**. (...)
